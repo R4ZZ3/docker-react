@@ -12,7 +12,7 @@ class App extends Component {
             Hi There you megacoder R4ZZ3!
             </p>  
             <center><img src="https://i.ytimg.com/vi/EJtDw1Aw7do/hqdefault.jpg"></img></center>
-            <h1> R4ZZ3 on kingi </h1>
+            <h1> R4ZZ3 on kingi ja CI bosse </h1>
           
           <a
             className="App-link"
